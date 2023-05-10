@@ -1,11 +1,11 @@
 # Outflow-of-bank-customers
 
-Из банка стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых.
+Customers began to leave the bank every month. Bank marketers have calculated that it is cheaper to retain current customers than to attract new ones.
 
-Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Нам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком. 
+It is necessary to predict whether the client will leave the bank in the near future or not. We have historical data on the behavior of customers and the termination of contracts with the bank.
 
-Необходимо построить модель с предельно большим значением *F1*-меры.  
+We need to build a model with an extremely large value of F1-measures.
 
-Дополнительно измерим *AUC-ROC*, сравним её значение с *F1*-мерой.
+Additionally measure AUC-ROC, compare its value with F1-measure.
 
-Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
+Data source: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
