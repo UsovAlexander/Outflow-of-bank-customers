@@ -1,4 +1,4 @@
-# Outflow-of-bank-customers
+# The outflow-of-bank-customers
 
 Customers began to leave the bank every month. Bank marketers have calculated that it is cheaper to retain current customers than to attract new ones.
 
